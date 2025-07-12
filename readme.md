@@ -1,14 +1,10 @@
-Below is a well-structured `README.md` file content tailored for your **Restaurant Scraper** project on GitHub. This README provides an overview, installation instructions, usage details, features, contributing guidelines, and licensing information, making it accessible for other developers or users. The content reflects the project's current state as of 11:05 PM IST on Saturday, July 12, 2025, and is based on the provided Selenium-based web scraping code.
 
----
-
-```markdown
 # Restaurant Scraper
 
 🌐 **Welcome to the Restaurant Scraper!** 🌯  
 A lightweight Python tool built with Selenium to scrape restaurant-related data from websites, starting with a simple Google page scrape as a proof of concept. This project lays the foundation for extracting menus, reviews, or pricing information from restaurant sites.
 
-📅 *Last Updated: July 12, 2025, 11:05 PM IST*
+
 
 ## Overview
 This project uses Selenium with Chrome WebDriver to automate web browsing and extract data from target websites. The initial implementation demonstrates scraping the title of a Google page, with potential to expand to restaurant-specific data like menus or ratings.
